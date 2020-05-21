@@ -3,7 +3,7 @@
 .center {text-align: center ; }
 body {color: rgb(0, 98, 255);}
 body {font-family: Arial, Helvetica, sans-serif;}
-#Rant {width: 20%;height: 20%;text-align: center;}
+#Rant {width: 18%;height: 15%;text-align: center;}
 h1 {text-align: center;}
 .About {text-align: center;}
 body {
@@ -13,3 +13,4 @@ body {
 #self {width: 20%;height: 20%;text-align: center;}
 #Brain {width: 25%;height: 25%;}
 #HeadHole {width: 20%;height: 20%;}
+#Bottle {width: 15%;height: 15%;}
