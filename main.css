@@ -1,10 +1,15 @@
 
 
 .center {text-align: center ; }
-body {color: rgb(0, 255, 85);}
+body {color: rgb(0, 98, 255);}
 body {font-family: Arial, Helvetica, sans-serif;}
-#Rant {width: 30%;}
+#Rant {width: 20%;height: 20%;text-align: center;}
 h1 {text-align: center;}
 .About {text-align: center;}
 body {
-    background-image: url("Galaxy.jpg")
+    background-image: url("Galaxy.jpg");
+    background-size: cover;}
+#Skeleton {width: 10%;height:10% ;}
+#self {width: 20%;height: 20%;text-align: center;}
+#Brain {width: 25%;height: 25%;}
+#HeadHole {width: 20%;height: 20%;}
